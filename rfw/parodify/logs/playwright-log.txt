@@ -1,0 +1,11 @@
+{"level":30,"time":"2021-02-25T00:10:55.219Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Listening on 58226"}
+{"level":30,"time":"2021-02-25T00:10:57.107Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active context"}
+{"level":30,"time":"2021-02-25T00:10:57.685Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-25T00:10:57.686Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active page"}
+{"level":30,"time":"2021-02-25T00:11:04.607Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-02-25T00:11:04.974Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active context"}
+{"level":30,"time":"2021-02-25T00:11:04.974Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-25T00:11:04.974Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active page"}
+{"level":30,"time":"2021-02-25T00:11:04.999Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active context"}
+{"level":30,"time":"2021-02-25T00:11:04.999Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-25T00:11:04.999Z","pid":48188,"hostname":"DESKTOP-BNOIKVK","msg":"Changed active page"}
